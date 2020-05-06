@@ -15,6 +15,6 @@ In March 2020 my country went into lockdown in response to the Covid-19 pandemic
 *To be added shortly.*
 
 
-### Scenes
+### Scenes (click below to view example scenes made with the engine)
 
-- [Space](https://tobiasloader.github.io/Scenes/Space/index.html)
+- [Space](https://tobiasloader.github.io/Boxy3D/Scenes/Space/index.html)
