@@ -409,7 +409,7 @@ function info(){
 	strokeWeight(3);
 // 	stroke(255,255,255,50);
 	fill(255,255,255,130);
-	text("Solid3D:  Space",35-W/2,35-H/2);
+	text("Solid 3D:  Space",35-W/2,35-H/2);
 	scale(1,-1);
 	
 	if (keyIsDown(67)){
