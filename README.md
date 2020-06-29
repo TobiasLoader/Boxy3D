@@ -12,7 +12,7 @@ In March 2020 my country went into lockdown in response to the Covid-19 pandemic
 
 ### Scenes:
 
-*click below to view example scenes made with the engine*
+*click below to view my first example scene made with the Solid 3D Engine:*
 
 - [Space](https://tobiasloader.github.io/Solid-3D-Engine/Scenes/Space/index.html)
 
@@ -20,5 +20,5 @@ In March 2020 my country went into lockdown in response to the Covid-19 pandemic
 
 ### Workflow Stages:
 
-*To be added shortly.*
+*To be added soon.*
 
