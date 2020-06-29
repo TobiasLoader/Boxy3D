@@ -14,7 +14,7 @@ In March 2020 my country went into lockdown in response to the Covid-19 pandemic
 
 *click below to view example scenes made with the engine*
 
-- [Space](https://tobiasloader.github.io/Boxy3D/Scenes/Space/index.html)
+- [Space](https://tobiasloader.github.io/Solid-3D-Engine/Scenes/Space/index.html)
 
 
 
