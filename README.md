@@ -1,6 +1,6 @@
 
 
-# Boxy3D: real-time object animation
+# Solid 3D Engine: real-time object animation
 
 
 
