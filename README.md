@@ -2,7 +2,7 @@
 
 # Solid 3D Engine: real-time object animation
 
-
+https://tobiasloader.github.io/Solid-3D-Engine/Scenes/Space/index.html
 
 ## The 3D Engine
 
@@ -14,11 +14,6 @@ In March 2020, the UK went into lockdown in response to the Covid-19 pandemic wi
 
 *click below to view my first example scene made with the Solid 3D Engine:*
 
-- [Space](https://tobiasloader.github.io/Solid-3D-Engine/Scenes/Space/index.html)
+- [Space Scene](https://tobiasloader.github.io/Solid-3D-Engine/Scenes/Space/index.html)
 
-
-
-### Workflow Stages:
-
-*To be added soon.*
-
+![Solid-3D-Engine](https://github.com/TobiasLoader/Solid-3D-Engine/blob/master/Scenes/Space/Solid-3D-Engine-Space.png)
